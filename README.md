@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @borjaDB
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-borjaDB/borjaDB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+           _                _           _ _              
+          | |              (_)         | | |             
+  ______  | |__   ___  _ __ _  __ _  __| | |__    ______ 
+ |______| | '_ \ / _ \| '__| |/ _` |/ _` | '_ \  |______|
+          | |_) | (_) | |  | | (_| | (_| | |_) |         
+          |_.__/ \___/|_|  | |\__,_|\__,_|_.__/          
+                          _/ |                           
+                         |__/                            
