@@ -1,8 +1,1 @@
-           _                _           _ _              
-          | |              (_)         | | |             
-  ______  | |__   ___  _ __ _  __ _  __| | |__    ______ 
- |______| | '_ \ / _ \| '__| |/ _` |/ _` | '_ \  |______|
-          | |_) | (_) | |  | | (_| | (_| | |_) |         
-          |_.__/ \___/|_|  | |\__,_|\__,_|_.__/          
-                          _/ |                           
-                         |__/                            
+Welcome to my repo. My name is Borja and I'm java dev. Currently I work in spain for public sector.         
